@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\..\\..\\..\\IoT_Design\\IoT_Tracker"
+		},
+		{
+			"name": "ble_esp_server",
+			"path": "..\\ble_esp_server"
+		},
+		{
+			"name": "ble_esp_client",
+			"path": "."
+		}
+	]
+}
